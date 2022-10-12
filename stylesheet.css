@@ -14,11 +14,15 @@ p.thick {
 p.thicker {
   font-weight: 900;
 }
-h1 {color: darkblue;
-  font-size: 32;
+h1 {color: darkslateblue;
+  font-size: 50;
+    text-decoration: underline;
+    text-align: center;
 }
 h2 {color: black;
+    text-decoration: underline;
+    font-size: 24;
 }
-body {background-color: azure;
-}
+body {background-color: peachpuff;
+
  
